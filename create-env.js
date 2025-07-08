@@ -1,3 +1,5 @@
+// Teil des Setupskriptes, um die .env Dateien zu erstellen, falls sie nicht existieren
+// Von der KI gekocht alternativ eine .env Datei in den jeweiligen Ordnern mit den entsprechenden Inhalten erstellen
 const fs = require('fs');
 const path = require('path');
 
